@@ -53,7 +53,7 @@ Aplicación móvil desarrollada con **Expo**, **React Native Reanimated 4** y **
 ## Instalación y ejecución
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Santiagotorrees/animaciones-reanimated.git
 cd animaciones-reanimated
 npm install
 npx expo start
