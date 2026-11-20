@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "animaciones-reanimated",
+    "name": "Animaciones Reanimated",
     "slug": "animaciones-reanimated",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "ios": {
       "supportsTablet": true
     },
@@ -20,6 +20,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "backgroundColor": "#0F1020"
   }
 }
